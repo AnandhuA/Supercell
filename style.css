@@ -1,0 +1,135 @@
+body {
+    overflow-x: hidden;
+    margin: -1rem;
+
+}
+
+footer {
+    background-color: black;
+
+    width: 100%;
+    font-size: xx-small;
+    color: white;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer ul {
+    list-style: none;
+}
+
+.footerlink {
+    display: flex;
+    flex-direction: row;
+
+}
+.dropdown a:hover{
+    color: white !important;
+}
+.ho:hover{
+    color: white !important;
+}
+.flast {
+    color: gray;
+}
+
+.dropmenu {
+    background-color: rgba(0, 0, 0, 0.771);
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.img {
+    position: relative;
+    margin-top: -5rem;
+}
+
+.fix {
+    z-index: 1;
+}
+
+.img {
+    position: relative;
+    text-align: center;
+}
+
+.imgtext {
+    position: absolute;
+    text-align: center;
+    top: 15%;
+    height: 15rem;
+}
+
+.text {
+    text-align: center;
+}
+
+.text h6 {
+    color: rgb(224, 52, 95);
+}
+
+.text a {
+    text-decoration: none;
+    color: black;
+    font-size: small;
+}
+
+.bttn {
+    border: none;
+    color: white;
+    background-color: rgb(92, 130, 221);
+    border-radius: 25px;
+    padding: .6rem 1rem .6rem 1rem;
+}
+
+.archivebtn {
+    display: flex;
+    justify-content: center;
+
+}
+
+.nitabg {
+    position: relative;
+}
+
+.nitatext {
+    color: white;
+}
+
+.nita {
+    top: 0;
+    position: absolute;
+
+}
+
+.peekabg {
+
+    background-color: #1f7aeb;
+}
+
+.slider {
+    padding: 6rem;
+    background-color: rgba(236, 239, 242, 0.719);
+}
+
+.card-body a {
+    text-decoration: none;
+}
+
+.card-body h5 {
+    font-size: small;
+}
+
+.card-body p {
+    font-size: small;
+}
+
+.play {
+    background-color: #aeb5be;
+
+}
